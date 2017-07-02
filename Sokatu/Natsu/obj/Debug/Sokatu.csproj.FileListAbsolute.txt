@@ -1,0 +1,513 @@
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\Sokatu.exe.config
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\Sokatu.exe
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\Sokatu.pdb
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Data.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Utils.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ImageGlass.ImageBox.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\LibraryLogin.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Data.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Utils.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.xml
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Sokatu.csprojResolveAssemblyReference.cache
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmChangeZoom.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmCreateBatch.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmFreeTime.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmMain.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmManagerBatch.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmUser.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmCheckDeSo.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmNangSuat.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmChiTietTienDo.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmTienDo.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyForm.FrmExportExcel.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyUserControl.UcNatsu.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyUserControl.UcNatsuItem.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.MyUserControl.UcPictureBox.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Natsu.Properties.Resources.resources
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Sokatu.csproj.GenerateResource.Cache
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Sokatu.exe.licenses
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Sokatu.exe
+F:\Dropbox\Cong_Viec\MP_Telecom\Google Drive\Project\Natsu\Sokatu\Natsu\Natsu\obj\Debug\Sokatu.pdb
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\Sokatu.exe.config
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Sokatu.exe
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Sokatu.pdb
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\Sokatu.exe
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\Sokatu.pdb
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ImageGlass.ImageBox.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\LibraryLogin.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Sokatu.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChangeZoom.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCreateBatch.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmFreeTime.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmMain.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmManagerBatch.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmUser.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCheckDeSo.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmNangSuat.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChiTietTienDo.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmTienDo.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmExportExcel.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcNatsu.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcNatsuItem.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcPictureBox.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Natsu.Properties.Resources.resources
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Sokatu.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Sokatu\Natsu\obj\Debug\Sokatu.exe.licenses
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\Sokatu.exe.config
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Sokatu.exe
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Sokatu.pdb
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\Sokatu.exe
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\Sokatu.pdb
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ImageGlass.ImageBox.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\LibraryLogin.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChangeZoom.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCreateBatch.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmFreeTime.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmMain.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmManagerBatch.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmUser.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCheckDeSo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmNangSuat.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChiTietTienDo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmTienDo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmExportExcel.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcPictureBox.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Sokatu.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Sokatu.exe.licenses
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatu.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuItem.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuItemFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Sokatu.csprojResolveAssemblyReference.cache
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\Sokatu.exe.config
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Sokatu.exe
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Sokatu.pdb
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\Sokatu.exe
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\Sokatu.pdb
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.UI.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ImageGlass.ImageBox.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\LibraryLogin.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Data.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChangeZoom.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCreateBatch.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmFreeTime.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmMain.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmManagerBatch.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmUser.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmCheckDeSo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmNangSuat.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmChiTietTienDo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmTienDo.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyForm.FrmExportExcel.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatu.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuItem.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcPictureBox.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuItemFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.MyUserControl.UcSokatuFeedback.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Natsu.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Sokatu.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\NatSu\Sokatu\Sokatu\Natsu\obj\Debug\Sokatu.exe.licenses
